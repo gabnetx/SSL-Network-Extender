@@ -6,3 +6,12 @@ How to install SSL Network Extender (SNX) client on Linux machine
 ## Screen from Java Web console
 
  [![FVCproductions](https://github.com/gabnetx/SSL-Network-Extender/blob/master/Consola_JavaWebStart_.png)](https://github.com/gabnetx/SSL-Network-Extender) 
+ 
+## Web Browser
+Firefox limits NPAPI support (technology required for Java applets)
+64-bit Firefox
+
+The 64-bit version of Firefox does not support NPAPI plug-ins, including Java.
+Firefox 52 and above
+
+Beginning with Firefox 52 (released March 2017), plug-in support is limited to Adobe Flash, and drops support for NPAPI, impacting plugins for Java, Silverlight, and other similar NPAPI based plugins.
