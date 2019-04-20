@@ -15,3 +15,5 @@ The 64-bit version of Firefox does not support NPAPI plug-ins, including Java.
 Firefox 52 and above
 
 Beginning with Firefox 52 (released March 2017), plug-in support is limited to Adobe Flash, and drops support for NPAPI, impacting plugins for Java, Silverlight, and other similar NPAPI based plugins.
+
+NOTA: Use IE in mode admin 
